@@ -33,8 +33,10 @@
   align-items: center;
 }
 
-.fa-typo3 {
-  margin-left: 0.5rem;
+.navbar-logo i {
+  margin-right: 0.5rem;
+  margin-top: -0.2rem;
+
   font-size: 1.8rem;
 }
 
